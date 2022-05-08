@@ -1,0 +1,2 @@
+# practicingNuxt
+Practicing Nuxt JS
