@@ -1,5 +1,5 @@
 <template>
-  <div class="container bg-danger">
+  <div class="container p-0">
     <div ref="swiper" class="swiper mySwiper bg-info">
       <div class="swiper-wrapper">
         <div class="swiper-slide">Slide 1</div>

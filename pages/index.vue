@@ -1,5 +1,7 @@
 <template>
-  <SwiperSlider />
+  <div>
+    <SwiperSlider />
+  </div>
 </template>
 
 <script>
