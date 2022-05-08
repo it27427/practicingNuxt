@@ -1,2 +1,2 @@
 # practicingNuxt
-Practicing Nuxt JS
+<h2>Practicing Nuxt JS</h2>
