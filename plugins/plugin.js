@@ -1,13 +1,6 @@
-// Import Swiper Vue.js components
-// import vue from 'vue';
-// import Swiper from 'swiper';
-// import { Navigation, Pagination, Scrollbar, A11y } from 'swiper';
+import Vue from 'vue';
 
-// // Import Swiper Vue.js components
-// import { Swiper, SwiperSlide } from 'swiper/vue';
+import 'bootstrap/dist/css/bootstrap.css';
+import BootstrapVue from 'bootstrap-vue/dist/bootstrap-vue.css';
 
-// Import Swiper styles
-// import 'swiper/swiper-bundle.min.css';
-
-// USE SWIPER
-// vue.use(Swiper)
+Vue.use(BootstrapVue);
